@@ -12,7 +12,7 @@ export const strings = {
   HOYLU_DATES: 'Oct 2018 - Present',
   HOYLU_LOCATION_PHILLY: 'Greater Philadelphia • Remote',
   HOYLU_LOCATION_ORLANDO: 'Orlando, FL • Hybrid',
-  HOYLU_TITLE_LATEST: 'Software Engineer II and Tech Lead',
+  HOYLU_TITLE_LATEST: 'Lead Software Engineer',
   HOYLU_TITLE_LATEST_DATES: 'Mar 2023 - Present',
   HOYLU_TITLE_LATEST_DESCRIPTION:
     'I lead a talented team of developers and collaborate closely with key stakeholders to identify specialized requirements for our development projects. In addition, I am hands-on in developing, deploying, and resolving issues within ReactJS, Python, and Kotlin applications. I also support team members through pair programming and make crucial decisions on project tools and technologies.',
